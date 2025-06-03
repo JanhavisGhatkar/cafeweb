@@ -2,10 +2,6 @@
 
 Caffeinated is a modern, stylish coffee shop landing page designed to attract users with a beautiful UI and intuitive layout. This responsive website includes sections for navigation, hero content, user statistics, and authentication buttons — giving users a warm welcome into the Caffeinated experience.
 
-## 🌐 Live Preview
-
-*(You can add GitHub Pages or Netlify link here after deployment)*
-
 ## 📸 Features
 
 - Responsive header with logo and navigation
